@@ -66,7 +66,7 @@ export default class Auth extends React.Component {
             <div className="auth-wrapper">
                 <Toast model={this.state.showToast} message="Incorrect login" backgroundColor="#FF4539" />
                 <div className="left">
-                    <img src="https://freesvg.org/img/chemist.png" />
+                    <img src="" alt="QuizLogo"/>
                 </div>
 
                 <div className="right">
